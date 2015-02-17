@@ -53,6 +53,7 @@ zh-TW:
     sessions:
       new:
         sign_in: "登入"
+      destroy: 登出
     shared:
       links:
         back: 
